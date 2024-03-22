@@ -48,5 +48,5 @@ Las distintas tecnologías que hemos aplicado en este proyecto son las siguiente
 
 
 ## 4. Colaboradores 
-En este proyecto hemos colaborado conjuntamente [Alberto González](https://github.com/2Tucho), estudiante de Full Stack, y de [Javier Calderón](), estudiante de Data Science.
+En este proyecto hemos colaborado conjuntamente [Alberto González](https://github.com/2Tucho), estudiante de Full Stack, y de [Javier Calderón](https://github.com/JavierCalderon94), estudiante de Data Science.
 
