@@ -26,7 +26,7 @@ Las distintas tecnologías que hemos aplicado en este proyecto son las siguiente
 
  - En primer lugar, accedimos al portal **Render** para tener un servidor online gratuito que alojase nuestra base de datos. Nos registramos y obtuvimos una serie de credenciales que después nos hacían falta para poder enlazarlo con pgAdmin4.
 
- (insertar foto de Render)
+ ** [Enlace a nuestro servidor de Render](https://dashboard.render.com/d/dpg-cntgrn6n7f5s73f925ig-a/info)
 
  - Seguidamente pasamos a configurar pgAdmin4 con las credenciales que nos aportó Render. Comprobamos que la conexión funcionaba al crear unas tablas cualquiera y, con toda la tecnología base ya controlada, pudimos pasarnos a idear el diagrama del modelo.
 
